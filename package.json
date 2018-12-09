@@ -1,0 +1,27 @@
+{
+  "name": "new-york-times-app",
+  "version": "1.0.0",
+  "description": "New York Times App",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachisaac/new-york-times-app.git"
+  },
+  "author": "Z. Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachisaac/new-york-times-app/issues"
+  },
+  "homepage": "https://github.com/zachisaac/new-york-times-app#readme"
+}
